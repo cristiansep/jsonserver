@@ -1,1 +1,1 @@
-## Servidor remoto para probar app de blogs  
+## Servidor para probar app de blogs  
